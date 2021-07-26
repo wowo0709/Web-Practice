@@ -14,6 +14,6 @@
 * HTML
   * **Chapter 4.** 웹 문서에 다양한 내용 입력하기
   * **Chapter 5.** 입력 양식 작성하기
-
 * CSS
+  * **Chapter 6.** CSS의 기본
 * JavaScript
